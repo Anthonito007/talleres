@@ -1,0 +1,20 @@
+body {
+    background: rgb(101,100,120);
+    background: linear-gradient(90deg, rgba(101,100,120,1) 0%, rgba(190,196,80,1) 48%, rgba(113,118,120,1) 100%) !important;
+
+}
+
+
+.container img:hover{
+
+    transform: rotate(360deg);
+
+}
+
+.container img {
+
+width: 70%;
+transition: all 1s;
+
+}
+
